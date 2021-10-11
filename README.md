@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a computer vision developer, I'd like to make some contributions for computer vision open source and share some thoughts on my blog and github.
+
 <!--
 **YouthJourney/YouthJourney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 💬 Contact me
+
+- Blog: https://youthjourney.github.io/
+- CSDN: https://blog.csdn.net/hallobike
+- WeChat Official Account: **AI与计算机视觉**
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YouthJourney)](https://github.com/anuraghazra/github-readme-stats)
