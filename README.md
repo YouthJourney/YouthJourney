@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 - CSDN: https://blog.csdn.net/hallobike
 - WeChat Official Account: **AI与计算机视觉**
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YouthJourney)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=YouthJourney&show_icons=true&theme=dark&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YouthJourney&theme=dark&layout=compact)
